@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://trentmarcus.com'
-  name: Trentmarcus
-  favicon: null
-  domain: trentmarcus.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://trentmarcus.com/index.html'
+inLanguage: en
+starred: false
 keywords:
   - tymilford
   - tcm
@@ -18,17 +17,20 @@ keywords:
   - estate
   - transactional
 description: 'Trent C. Marcus, a Law Corporation is a transactional law practice focusing on the areas of Estate Planning, Small Business Law, Contracts, Probate, and Asset Protection.'
-inLanguage: en
+datePublished: '2015-11-01T22:02:40.679Z'
+dateModified: '2015-11-01T21:26:24.812Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://trentmarcus.com/index.html'
-title: 'Trent C. Marcus, A Law Corporation - Home'
-datePublished: '2015-11-01T21:23:39.741Z'
-dateModified: '2015-11-01T21:23:14.491Z'
+title: 'Trent C. Marcus, A Law Corporation'
 sourcePath: _posts/2015-11-01-trent-c-marcus-a-law-corporation-home.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Trentmarcus
+  domain: trentmarcus.com
+  url: 'http://trentmarcus.com'
+  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 
