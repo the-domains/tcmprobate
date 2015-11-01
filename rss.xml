@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[tcmprobate]]></title>
         <description><![CDATA[tcmprobate]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tcmprobate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 Nov 2015 21:23:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 Nov 2015 21:34:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tcmprobate/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c823040-f57d-41d0-aa4f-13f5ba73dbad.tif">]]></description>
+            <link>https://thegrid.ai/tcmprobate/415d8f76-3d65-4db8-b4c7-03a572c03ab7/index.html</link>
+            <guid isPermaLink="false">415d8f76-3d65-4db8-b4c7-03a572c03ab7</guid>
+            <pubDate>Sun, 01 Nov 2015 21:34:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://trentmarcus.com/images/TCMPhotoopthead.jpg">]]></description>
+            <link>https://thegrid.ai/tcmprobate/2d666b85-a344-45bd-b930-fab2e4dc6ec3/index.html</link>
+            <guid isPermaLink="false">2d666b85-a344-45bd-b930-fab2e4dc6ec3</guid>
+            <pubDate>Sun, 01 Nov 2015 21:25:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trent C. Marcus, A Law Corporation - Home]]></title>
             <description><![CDATA[<article><h1>Trent C. Marcus, A Law Corporation - Home</h1><p>Trent C. Marcus, a Law Corporation is a transactional law practice focusing on the areas of Estate Planning, Small Business Law, Contracts, Probate, and Asset Protection.</p><img src="http://trentmarcus.com/images/nav/navdark_02.gif"></article>]]></description>
